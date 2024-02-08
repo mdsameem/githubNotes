@@ -1,4 +1,4 @@
-Key Concepts in GitHub
+Key Concepts in GitHub - by md Sameem.
 Repository:
 
 A repository, or repo, is a storage space where your project and its files reside. It can be either public or private.
